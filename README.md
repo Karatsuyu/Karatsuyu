@@ -34,15 +34,15 @@ Desarrollador Full Stack con experiencia en el diseño, desarrollo y despliegue 
 ## 🚀 Repositorios Destacados
 
 <p align="center">
-  <a href="https://github.com/Karatsuyu">
+  <a href="https://github.com/Karatsuyu/delicious-food-app.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karatsuyu&repo=REPO_1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Karatsuyu">
+  <a href="https://github.com/Karatsuyu/Tienda-Online.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karatsuyu&repo=REPO_2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> 🔧 Reemplaza `REPO_1` y `REPO_2` por repositorios **públicos reales**.
+
 
 ---
 
